@@ -25,7 +25,8 @@ def read_csv(file_path):
 # Chemins des fichiers CSV
 file_paths = [
     # "LpL_SF12/reseau_14dBm_330m_255cm_placo.csv",
-    "LpL_SF8/reseau_20dBm_330m_255cm_placo.csv"
+    "LpL_SF8/reseau_20dBm_330m_255cm_placo.csv",
+    "LpL_SF8/reseau_14dBm_330m_255cm_placo.csv"
     # "LpL_SF12/reseau_16dBm_330m_255cm_placo.csv",
     # "LpL_SF12/reseau_18dBm_330m_255cm_placo.csv",
     # "LpL_SF12/reseau_20dBm_330m_255cm_placo.csv"

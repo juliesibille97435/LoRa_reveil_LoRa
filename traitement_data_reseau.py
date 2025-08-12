@@ -109,5 +109,5 @@ def process_folder(folder_path, label):
     plt.show()
 
 # Traite chaque dossier
-# process_folder("rectenna_unitaire", "Rectenna unitaire")
-process_folder("reseau_rectenna", "Réseau de rectenna")
+process_folder("rectenna_unitaire", "Rectenna unitaire")
+# process_folder("reseau_rectenna", "Réseau de rectenna")
